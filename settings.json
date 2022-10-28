@@ -1,0 +1,31 @@
+{
+  "explorer.confirmDelete": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[mdx]": {
+      "editor.formatOnSave": false,
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.tabSize": 2,
+  "git.enableSmartCommit": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "thunder-client.codeSnippetLanguage": "js-axios",
+  "workbench.startupEditor": "none",
+  "avdmanager.sdkPath": "c:\\Users\\PC\\AppData\\Local\\Android\\Sdk",
+  "editor.stickyScroll.enabled": false,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay"
+}
